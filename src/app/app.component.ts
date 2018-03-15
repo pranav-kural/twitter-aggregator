@@ -1,6 +1,6 @@
 import { Component } from '@angular/core';
 import { OnInit } from '@angular/core/src/metadata/lifecycle_hooks';
-import * as Twitter from 'Twitter';
+import * as Twitter from 'twitter';
 
 @Component({
   selector: 'app-root',
